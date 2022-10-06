@@ -1,0 +1,5 @@
+services:
+  grobid:
+    image: lfoppiano/grobid:0.7.1
+    ports:
+      - 8070-8071:8070-8071
