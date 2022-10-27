@@ -15,3 +15,6 @@ Grobid spits out `.xml` documents containing raw text as well as metadata, the `
 5. Postprocess a folder of `.xml` documents: `python postprocess.py <dir>`
 
 Done!
+
+
+extracting text/transforming to other formats: https://github.com/TEIC/TEIGarage/
