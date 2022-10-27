@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 beautifulsoup4 = "*"
+grobid-client-python = "*"
 
 [dev-packages]
 
